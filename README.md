@@ -385,7 +385,7 @@ This project is licensed under the MIT License.
 
 **Yug Birla**
 
-- LinkedIn: [Add your LinkedIn](https://www.linkedin.com/in/yug-birla-4b17b4321/)
-- GitHub: [Add your GitHub profile](https://github.com/yug-birla)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/yug-birla-4b17b4321/)
+- GitHub: [GitHub profile](https://github.com/yug-birla)
 
 ---
