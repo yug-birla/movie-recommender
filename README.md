@@ -363,17 +363,6 @@ streamlit run app.py
 - Docker containerization
 - CI/CD deployment pipeline
 
----
-
-# Preview
-
-Add application screenshots here.
-
-Example:
-
-```markdown
-![App Screenshot](images/app.png)
-```
 
 ---
 
